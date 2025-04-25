@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ronald de Keijzer @rdkeijzeror working at Ordina.nl  
-- 👀 I’m currently mostly interested in shell (bash/ksh/perl/ansible) scripting and Application management automation 
-- 🌱 I’m currently learning more in depth git/ansible 
+- 👋 Hi, I’m Ronald de Keijzer @rdkeijzeror working at SopraSteria.com
+- 👀 I’m currently mostly interested in shell (bash/ksh/perl/ansible/terraform) scripting and Application management automation 
+- 🌱 I’m currently learning more in depth git/ansible/terraform
 
 <!---
 - 💞️ I’m looking to collaborate on ...
